@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Grocery Sales Prediction - Home</title>
+	 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+	<h1>Grocery Sales Prediction</h1>
+	<p>Welcome to our grocery sales prediction website!</p>
+	<form action="{{ url_for('predict') }}" method="POST">
+		<label for="product">Select a product:</label>
+		<select name="product" id="product">
+			<option value="Apple">Apple</option>
+			<option value="Banana">Banana</option>
+			<option value="Orange">Orange</option>
+			<option value="Mango">Mango</option>
+            <option value="Pineapple">Pineapple</option>
+			<option value="Papaya">Papaya</option>
+			<option value="Watermelon">Watermelon</option>
+			<option value="Grapes">Grapes</option>
+            <option value="Kiwi">Kiwi</option>
+			<option value="Pomegranate">Pomegranate</option>
+			<option value="Guava">Guava</option>
+			<option value="Pear">Pear</option>
+            <option value="Plum">Plum</option>
+			<option value="Cherry">Cherry</option>
+			<option value="Avocado">Avocado</option>
+			<option value="Lemon">Lemon</option>
+            <option value="Lime">Lime</option>
+			<option value="Grapefruit">Grapefruit</option>
+			<option value="Blueberry">Blueberry</option>
+			<option value="Raspberry">Raspberry</option>
+            <option value="Strawberry">Strawberry</option>
+			<option value="Blackberry">Blackberry</option>
+			<option value="Mango Juice">Mango Juice</option>
+			<option value="Orange Juice">Orange Juice</option>
+            <option value="Apple Juice">Apple Juice</option>
+			<option value="Pineapple Juice">Pineapple Juice</option>
+			<option value="Lemonade">Lemonade</option>
+			<option value="Iced Tea">Iced Tea</option>
+            <option value="Energy Drink">Energy Drink</option>
+			<option value="Soda">Soda</option>
+			<option value="Coconut Water">Coconut Water</option>
+			<option value="Coffee">Coffee</option>
+            <option value="Tea">Tea</option>
+			<option value="Honey">Honey</option>
+			<option value="Ketchup">Ketchup</option>
+			<option value="Mayonnaise">Mayonnaise</option>
+            <option value="Mustard">Mustard</option>
+			<option value="Relish">Relish</option>
+			<option value="Soy Sauce">Soy Sauce</option>
+			<option value="Hot Sauce">Hot Sauce</option>
+            <option value="Salad Dressing">Salad Dressing</option>
+			<option value="Jam">Jam</option>
+			<option value="Peanut Butter">Peanut Butter</option>
+			<option value="Nutella">Nutella</option>
+            <option value="Olive Oil">Olive Oil</option>
+			<option value="Canola Oil">Canola Oil</option>
+			<option value="Vegetable Oil">Vegetable Oil</option>
+			<option value="Sunflower Oil">Sunflower Oil</option>
+            <option value="Sesame Oil">Sesame Oil</option>
+			<option value="Butter">Butter</option>
+			<option value="Cheese">Cheese</option>
+			<option value="Milk">Milk</option>
+            <option value="Yogurt">Yogurt</option>
+			<option value="Cream">Cream</option>
+			<option value="Ice Cream">Ice Cream</option>
+			<option value="Chicken">Chicken</option>
+            <option value="Beef">Beef</option>
+			<option value="Pork">Pork</option>
+			<option value="Lamb">Lamb</option>
+			<option value="Fish">Fish</option>
+            <option value="Shrimp">Shrimp</option>
+			<option value="Crab">Crab</option>
+            <option value="Lobster">Lobster</option>
+			<option value="Squid">Squid</option>
+			<option value="Rice">Rice</option>
+			<option value="Pasta">Pasta</option>
+            <option value="Bread">Bread</option>
+			<option value="Bagel">Bagel</option>
+			<option value="Croissant">Croissant</option>
+			<option value="Muffin">Muffin</option>
+		</select>
+		<br>
+		<input type="submit" value="Predict Sales">
+	</form>
+</body>
+</html>

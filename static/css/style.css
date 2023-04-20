@@ -1,0 +1,93 @@
+/* Style for the body of the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the h1 heading */
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 48px;
+    color: #333;
+}
+
+h2 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+/* Style for the form */
+form {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 50px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+/* Style for the select input */
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style for the submit button */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+/* Style for the container of the predicted sales */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+/* Style for the predicted sales */
+.predicted-sales {
+    font-size: 36px;
+    color: #333;
+}
+
+p {
+    text-align: center;
+    font-weight: 700;
+}
+
+a {
+    background-color: #4CAF50;
+    position: relative;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    left: 700px;
+    top: 100px;
+}
+
+output {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0px 0px 10px #ccc;
+}

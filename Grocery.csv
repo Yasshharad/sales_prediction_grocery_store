@@ -1,0 +1,631 @@
+Products,Category,Price,DayOfWeek,Year,Sales,Customers
+Apple,Fruits,120,5,2015,5263,555
+Banana,Fruits,60,5,2015,6064,625
+Orange,Fruits,80,5,2015,8314,821
+Mango,Fruits,150,5,2015,13995,1498
+Pineapple,Fruits,100,5,2015,4822,559
+Papaya,Fruits,80,5,2015,5651,589
+Watermelon,Fruits,30,5,2015,15344,1414
+Grapes,Fruits,200,5,2015,8492,833
+Kiwi,Fruits,80,5,2015,8565,687
+Pomegranate,Fruits,120,5,2015,7185,681
+Guava,Fruits,40,5,2015,10457,1236
+Pear,Fruits,100,5,2015,8959,962
+Plum,Fruits,80,5,2015,8821,568
+Cherry,Fruits,150,5,2015,6544,710
+Avocado,Fruits,200,5,2015,9191,766
+Lemon,Fruits,20,5,2015,10231,979
+Lime,Fruits,30,5,2015,8430,946
+Grapefruit,Fruits,70,5,2015,10071,936
+Blueberry,Fruits,120,5,2015,8234,718
+Raspberry,Fruits,150,5,2015,9593,974
+Strawberry,Fruits,100,5,2015,9515,682
+Blackberry,Fruits,80,5,2015,6566,633
+Mango Juice,Beverages,50,5,2015,7273,560
+Orange Juice,Beverages,40,5,2015,14190,1082
+Apple Juice,Beverages,60,5,2015,14180,1586
+Pineapple Juice,Beverages,70,5,2015,7818,611
+Lemonade,Beverages,30,5,2015,13213,1263
+Iced Tea,Beverages,40,5,2015,7301,663
+Energy Drink,Beverages,100,5,2015,9411,737
+Soda,Beverages,20,5,2015,4776,625
+Coconut Water,Beverages,40,5,2015,7248,645
+Coffee,Beverages,80,5,2015,6395,635
+Tea,Beverages,50,5,2015,10789,915
+Honey,Condiments,150,5,2015,11144,1162
+Ketchup,Condiments,70,5,2015,12412,777
+Mayonnaise,Condiments,100,5,2015,12422,1251
+Mustard,Condiments,50,5,2015,9091,888
+Relish,Condiments,60,5,2015,7434,608
+Soy Sauce,Condiments,80,5,2015,8336,929
+Hot Sauce,Condiments,50,5,2015,5464,678
+Salad Dressing,Condiments,100,5,2015,6938,494
+Jam,Condiments,120,5,2015,11946,1235
+Peanut Butter,Condiments,150,5,2015,8096,683
+Nutella,Condiments,200,5,2015,6670,665
+Olive Oil,Oils,200,5,2015,6301,442
+Canola Oil,Oils,100,5,2015,7628,775
+Vegetable Oil,Oils,80,5,2015,9379,1021
+Sunflower Oil,Oils,90,5,2015,3874,390
+Sesame Oil,Oils,150,5,2015,10310,666
+Butter,Dairy,120,5,2015,5729,441
+Cheese,Dairy,200,5,2015,9198,610
+Milk,Dairy,50,5,2015,8031,527
+Yogurt,Dairy,40,5,2015,7540,690
+Cream,Dairy,60,5,2015,10732,889
+Ice Cream,Dairy,100,5,2015,6096,673
+Chicken,Meat,200,5,2015,10022,619
+Beef,Meat,300,5,2015,11594,1025
+Pork,Meat,250,5,2015,8581,603
+Lamb,Meat,350,5,2015,7148,628
+Fish,Seafood,150,5,2015,9762,776
+Shrimp,Seafood,250,5,2015,5572,665
+Crab,Seafood,200,5,2015,7495,772
+Lobster,Seafood,500,5,2015,11525,846
+Squid,Seafood,100,5,2015,13251,935
+Rice,Grains,80,5,2015,7156,561
+Pasta,Grains,50,5,2015,8306,636
+Bread,Bakery,30,5,2015,11035,912
+Bagel,Bakery,40,5,2015,11187,1341
+Croissant,Bakery,50,5,2015,11204,1371
+Muffin,Bakery,60,5,2015,8613,741
+Apple,Fruits,120,4,2016,5020,546
+Banana,Fruits,60,4,2016,5567,601
+Orange,Fruits,80,4,2016,8977,823
+Mango,Fruits,150,4,2016,10387,1276
+Pineapple,Fruits,100,4,2016,4943,539
+Papaya,Fruits,80,4,2016,4790,541
+Watermelon,Fruits,30,4,2016,11560,1116
+Grapes,Fruits,200,4,2016,8420,882
+Kiwi,Fruits,80,4,2016,7539,651
+Pomegranate,Fruits,120,4,2016,6186,556
+Guava,Fruits,40,4,2016,7361,874
+Pear,Fruits,100,4,2016,7996,835
+Plum,Fruits,80,4,2016,7648,474
+Cherry,Fruits,150,4,2016,5672,613
+Avocado,Fruits,200,4,2016,8891,741
+Lemon,Fruits,20,4,2016,10226,953
+Lime,Fruits,30,4,2016,7555,850
+Grapefruit,Fruits,70,4,2016,7361,710
+Blueberry,Fruits,120,4,2016,8400,687
+Raspberry,Fruits,150,4,2016,12379,1185
+Strawberry,Fruits,100,4,2016,6985,534
+Blackberry,Fruits,80,4,2016,5685,575
+Mango Juice,Beverages,50,4,2016,5801,484
+Orange Juice,Beverages,40,4,2016,11439,884
+Apple Juice,Beverages,60,4,2016,11272,1422
+Pineapple Juice,Beverages,70,4,2016,7892,679
+Lemonade,Beverages,30,4,2016,10270,1065
+Iced Tea,Beverages,40,4,2016,6210,635
+Energy Drink,Beverages,100,4,2016,8039,661
+Soda,Beverages,20,4,2016,4881,682
+Coconut Water,Beverages,40,4,2016,6712,582
+Coffee,Beverages,80,4,2016,5779,617
+Tea,Beverages,50,4,2016,8146,740
+Honey,Condiments,150,4,2016,8443,992
+Ketchup,Condiments,70,4,2016,11088,727
+Mayonnaise,Condiments,100,4,2016,11955,1150
+Mustard,Condiments,50,4,2016,7771,791
+Relish,Condiments,60,4,2016,6591,499
+Soy Sauce,Condiments,80,4,2016,5734,668
+Hot Sauce,Condiments,50,4,2016,5191,661
+Salad Dressing,Condiments,100,4,2016,6311,455
+Jam,Condiments,120,4,2016,10853,1104
+Peanut Butter,Condiments,150,4,2016,5982,526
+Nutella,Condiments,200,4,2016,5159,562
+Olive Oil,Oils,200,4,2016,6063,445
+Canola Oil,Oils,100,4,2016,7057,760
+Vegetable Oil,Oils,80,4,2016,7585,864
+Sunflower Oil,Oils,90,4,2016,3297,335
+Sesame Oil,Oils,150,4,2016,8996,590
+Butter,Dairy,120,4,2016,5324,376
+Cheese,Dairy,200,4,2016,8280,555
+Milk,Dairy,50,4,2016,7024,453
+Yogurt,Dairy,40,4,2016,6797,598
+Cream,Dairy,60,4,2016,9905,778
+Ice Cream,Dairy,100,4,2016,5610,639
+Chicken,Meat,200,4,2016,8705,544
+Beef,Meat,300,4,2016,9820,872
+Pork,Meat,250,4,2016,8433,594
+Lamb,Meat,350,4,2016,5556,545
+Fish,Seafood,150,4,2016,10213,818
+Shrimp,Seafood,250,4,2016,5868,599
+Crab,Seafood,200,4,2016,7181,762
+Lobster,Seafood,500,4,2016,9316,735
+Squid,Seafood,100,4,2016,13029,863
+Rice,Grains,80,4,2016,6652,511
+Pasta,Grains,50,4,2016,6937,530
+Bread,Bakery,30,4,2016,10875,955
+Bagel,Bakery,40,4,2016,7780,976
+Croissant,Bakery,50,4,2016,10252,1230
+Muffin,Bakery,60,4,2016,8034,678
+Apple,Fruits,120,3,2017,4782,523
+Banana,Fruits,60,3,2017,6402,727
+Orange,Fruits,80,3,2017,7610,716
+Mango,Fruits,150,3,2017,10514,1258
+Pineapple,Fruits,100,3,2017,5899,658
+Papaya,Fruits,80,3,2017,5275,542
+Watermelon,Fruits,30,3,2017,12074,1166
+Grapes,Fruits,200,3,2017,7029,698
+Kiwi,Fruits,80,3,2017,7776,625
+Pomegranate,Fruits,120,3,2017,5524,518
+Guava,Fruits,40,3,2017,8378,1064
+Pear,Fruits,100,3,2017,9236,989
+Plum,Fruits,80,3,2017,6648,406
+Cherry,Fruits,150,3,2017,5412,579
+Avocado,Fruits,200,3,2017,7583,668
+Lemon,Fruits,20,3,2017,9471,930
+Lime,Fruits,30,3,2017,7179,861
+Grapefruit,Fruits,70,3,2017,7833,732
+Blueberry,Fruits,120,3,2017,7182,610
+Raspberry,Fruits,150,3,2017,10728,1040
+Strawberry,Fruits,100,3,2017,7337,560
+Blackberry,Fruits,80,3,2017,5551,525
+Mango Juice,Beverages,50,3,2017,6319,511
+Orange Juice,Beverages,40,3,2017,10362,810
+Apple Juice,Beverages,60,3,2017,10527,1254
+Pineapple Juice,Beverages,70,3,2017,7298,556
+Lemonade,Beverages,30,3,2017,10318,1029
+Iced Tea,Beverages,40,3,2017,5547,546
+Energy Drink,Beverages,100,3,2017,7564,614
+Soda,Beverages,20,3,2017,4551,597
+Coconut Water,Beverages,40,3,2017,5982,570
+Coffee,Beverages,80,3,2017,4869,508
+Tea,Beverages,50,3,2017,7028,656
+Honey,Condiments,150,3,2017,8658,949
+Ketchup,Condiments,70,3,2017,10634,662
+Mayonnaise,Condiments,100,3,2017,11962,1195
+Mustard,Condiments,50,3,2017,7442,710
+Relish,Condiments,60,3,2017,6595,519
+Soy Sauce,Condiments,80,3,2017,5617,662
+Hot Sauce,Condiments,50,3,2017,5004,598
+Salad Dressing,Condiments,100,3,2017,5673,396
+Jam,Condiments,120,3,2017,10932,1096
+Peanut Butter,Condiments,150,3,2017,6960,590
+Nutella,Condiments,200,3,2017,5649,609
+Olive Oil,Oils,200,3,2017,5341,387
+Canola Oil,Oils,100,3,2017,6955,716
+Vegetable Oil,Oils,80,3,2017,8051,997
+Sunflower Oil,Oils,90,3,2017,3646,362
+Sesame Oil,Oils,150,3,2017,9691,609
+Butter,Dairy,120,3,2017,4946,379
+Cheese,Dairy,200,3,2017,7538,501
+Milk,Dairy,50,3,2017,7584,472
+Yogurt,Dairy,40,3,2017,6451,572
+Cream,Dairy,60,3,2017,9177,720
+Ice Cream,Dairy,100,3,2017,5924,629
+Chicken,Meat,200,3,2017,9048,540
+Beef,Meat,300,3,2017,10245,907
+Pork,Meat,250,3,2017,8200,572
+Lamb,Meat,350,3,2017,5228,491
+Fish,Seafood,150,3,2017,11136,914
+Shrimp,Seafood,250,3,2017,6760,657
+Crab,Seafood,200,3,2017,6820,719
+Lobster,Seafood,500,3,2017,8667,674
+Squid,Seafood,100,3,2017,11569,759
+Rice,Grains,80,3,2017,5356,423
+Pasta,Grains,50,3,2017,7050,520
+Bread,Bakery,30,3,2017,10662,930
+Bagel,Bakery,40,3,2017,8626,1185
+Croissant,Bakery,50,3,2017,9962,1187
+Muffin,Bakery,60,3,2017,7258,660
+Apple,Fruits,120,2,2018,5011,560
+Banana,Fruits,60,2,2018,5671,646
+Orange,Fruits,80,2,2018,8864,818
+Mango,Fruits,150,2,2018,10275,1191
+Pineapple,Fruits,100,2,2018,6083,598
+Papaya,Fruits,80,2,2018,4839,576
+Watermelon,Fruits,30,2,2018,12342,1158
+Grapes,Fruits,200,2,2018,6717,695
+Kiwi,Fruits,80,2,2018,8751,678
+Pomegranate,Fruits,120,2,2018,6140,593
+Guava,Fruits,40,2,2018,6938,938
+Pear,Fruits,100,2,2018,8822,861
+Plum,Fruits,80,2,2018,6819,446
+Cherry,Fruits,150,2,2018,5957,628
+Avocado,Fruits,200,2,2018,7516,646
+Lemon,Fruits,20,2,2018,9695,1013
+Lime,Fruits,30,2,2018,9316,983
+Grapefruit,Fruits,70,2,2018,7704,724
+Blueberry,Fruits,120,2,2018,7717,633
+Raspberry,Fruits,150,2,2018,10884,1048
+Strawberry,Fruits,100,2,2018,7948,575
+Blackberry,Fruits,80,2,2018,5761,525
+Mango Juice,Beverages,50,2,2018,5923,484
+Orange Juice,Beverages,40,2,2018,11129,876
+Apple Juice,Beverages,60,2,2018,10865,1363
+Pineapple Juice,Beverages,70,2,2018,7926,547
+Lemonade,Beverages,30,2,2018,10956,1075
+Iced Tea,Beverages,40,2,2018,6001,598
+Energy Drink,Beverages,100,2,2018,8450,697
+Soda,Beverages,20,2,2018,4925,670
+Coconut Water,Beverages,40,2,2018,5736,492
+Coffee,Beverages,80,2,2018,5679,586
+Tea,Beverages,50,2,2018,8268,732
+Honey,Condiments,150,2,2018,9169,989
+Ketchup,Condiments,70,2,2018,10877,711
+Mayonnaise,Condiments,100,2,2018,10846,1166
+Mustard,Condiments,50,2,2018,7976,756
+Relish,Condiments,60,2,2018,6650,552
+Soy Sauce,Condiments,80,2,2018,6145,660
+Hot Sauce,Condiments,50,2,2018,5387,673
+Salad Dressing,Condiments,100,2,2018,5600,411
+Jam,Condiments,120,2,2018,10896,1082
+Peanut Butter,Condiments,150,2,2018,7180,613
+Nutella,Condiments,200,2,2018,6130,632
+Olive Oil,Oils,200,2,2018,5504,365
+Canola Oil,Oils,100,2,2018,6385,714
+Vegetable Oil,Oils,80,2,2018,8066,862
+Sunflower Oil,Oils,90,2,2018,3598,351
+Sesame Oil,Oils,150,2,2018,9694,614
+Butter,Dairy,120,2,2018,5115,390
+Cheese,Dairy,200,2,2018,7847,464
+Milk,Dairy,50,2,2018,7787,450
+Yogurt,Dairy,40,2,2018,6162,604
+Cream,Dairy,60,2,2018,8992,718
+Ice Cream,Dairy,100,2,2018,6252,678
+Chicken,Meat,200,2,2018,8400,537
+Beef,Meat,300,2,2018,11248,957
+Pork,Meat,250,2,2018,8489,613
+Lamb,Meat,350,2,2018,6699,596
+Fish,Seafood,150,2,2018,12230,907
+Shrimp,Seafood,250,2,2018,6397,641
+Crab,Seafood,200,2,2018,7593,802
+Lobster,Seafood,500,2,2018,7707,625
+Squid,Seafood,100,2,2018,12596,827
+Rice,Grains,80,2,2018,6670,522
+Pasta,Grains,50,2,2018,6927,535
+Bread,Bakery,30,2,2018,11285,996
+Bagel,Bakery,40,2,2018,8195,1120
+Croissant,Bakery,50,2,2018,10843,1309
+Muffin,Bakery,60,2,2018,8317,708
+Apple,Fruits,120,7,2019,4364,500
+Banana,Fruits,60,7,2019,2512,316
+Orange,Fruits,80,7,2019,3878,412
+Mango,Fruits,150,7,2019,9322,1219
+Pineapple,Fruits,100,7,2019,2030,228
+Papaya,Fruits,80,7,2019,2892,306
+Watermelon,Fruits,30,7,2019,6574,705
+Grapes,Fruits,200,7,2019,3288,398
+Kiwi,Fruits,80,7,2019,5330,468
+Pomegranate,Fruits,120,7,2019,4713,475
+Guava,Fruits,40,7,2019,4712,642
+Pear,Fruits,100,7,2019,5185,651
+Plum,Fruits,80,7,2019,4361,340
+Cherry,Fruits,150,7,2019,2952,348
+Avocado,Fruits,200,7,2019,5209,555
+Lemon,Fruits,20,7,2019,6105,571
+Lime,Fruits,30,7,2019,4361,340
+Grapefruit,Fruits,70,7,2019,2952,348
+Blueberry,Fruits,120,7,2019,5209,555
+Raspberry,Fruits,150,7,2019,6105,571
+Strawberry,Fruits,100,7,2019,2572,357
+Blackberry,Fruits,80,7,2019,4416,475
+Mango Juice,Beverages,50,7,2019,3562,299
+Orange Juice,Beverages,40,7,2019,6588,643
+Apple Juice,Beverages,60,7,2019,5808,512
+Pineapple Juice,Beverages,70,7,2019,3540,415
+Lemonade,Beverages,30,7,2019,4191,388
+Iced Tea,Beverages,40,7,2019,5916,537
+Energy Drink,Beverages,100,7,2019,7285,1004
+Soda,Beverages,20,7,2019,5568,498
+Coconut Water,Beverages,40,7,2019,5120,598
+Coffee,Beverages,80,7,2019,1864,231
+Tea,Beverages,50,7,2019,6084,526
+Honey,Condiments,150,7,2019,2513,394
+Ketchup,Condiments,70,7,2019,5403,517
+Mayonnaise,Condiments,100,7,2019,2532,308
+Mustard,Condiments,50,7,2019,7188,694
+Relish,Condiments,60,7,2019,7089,824
+Soy Sauce,Condiments,80,7,2019,6557,507
+Hot Sauce,Condiments,50,7,2019,10830,1107
+Salad Dressing,Condiments,100,7,2019,6547,776
+Jam,Condiments,120,7,2019,5559,508
+Peanut Butter,Condiments,150,7,2019,2022,300
+Nutella,Condiments,200,7,2019,3496,478
+Olive Oil,Oils,200,7,2019,6217,469
+Canola Oil,Oils,100,7,2019,6044,662
+Vegetable Oil,Oils,80,7,2019,3931,338
+Sunflower Oil,Oils,90,7,2019,2755,346
+Sesame Oil,Oils,150,7,2019,5828,474
+Butter,Dairy,120,7,2019,5257,651
+Cheese,Dairy,200,7,2019,4845,627
+Milk,Dairy,50,7,2019,2090,217
+Yogurt,Dairy,40,7,2019,8302,602
+Cream,Dairy,60,7,2019,4356,360
+Ice Cream,Dairy,100,7,2019,7902,580
+Chicken,Meat,200,7,2019,6117,442
+Beef,Meat,300,7,2019,2468,305
+Pork,Meat,250,7,2019,8142,760
+Lamb,Meat,350,7,2019,2632,321
+Fish,Seafood,150,7,2019,9229,627
+Shrimp,Seafood,250,7,2019,6477,635
+Crab,Seafood,200,7,2019,6841,545
+Lobster,Seafood,500,7,2019,2624,254
+Squid,Seafood,100,7,2019,5250,415
+Rice,Grains,80,7,2019,4675,576
+Pasta,Grains,50,7,2019,4364,500
+Bread,Bakery,30,7,2019,2512,316
+Bagel,Bakery,40,7,2019,3878,412
+Croissant,Bakery,50,7,2019,9322,1219
+Muffin,Bakery,60,7,2019,2030,228
+Apple,Fruits,120,6,2020,2892,306
+Banana,Fruits,60,6,2020,2512,316
+Orange,Fruits,80,6,2020,3878,412
+Mango,Fruits,150,6,2020,9322,1219
+Pineapple,Fruits,100,6,2020,2030,228
+Papaya,Fruits,80,6,2020,2892,306
+Watermelon,Fruits,30,6,2020,6574,705
+Grapes,Fruits,200,6,2020,3288,398
+Kiwi,Fruits,80,6,2020,5330,468
+Pomegranate,Fruits,120,6,2020,4713,475
+Guava,Fruits,40,6,2020,4712,642
+Pear,Fruits,100,6,2020,5185,651
+Plum,Fruits,80,6,2020,4361,340
+Cherry,Fruits,150,6,2020,2952,348
+Avocado,Fruits,200,6,2020,5209,555
+Lemon,Fruits,20,6,2020,6105,571
+Lime,Fruits,30,6,2020,2572,357
+Grapefruit,Fruits,70,6,2020,4416,475
+Blueberry,Fruits,120,6,2020,3562,299
+Raspberry,Fruits,150,6,2020,6588,643
+Strawberry,Fruits,100,6,2020,5808,512
+Blackberry,Fruits,80,6,2020,3540,415
+Mango Juice,Beverages,50,6,2020,4191,388
+Orange Juice,Beverages,40,6,2020,5916,537
+Apple Juice,Beverages,60,6,2020,7285,1004
+Pineapple Juice,Beverages,70,6,2020,5568,498
+Lemonade,Beverages,30,6,2020,5120,598
+Iced Tea,Beverages,40,6,2020,1864,231
+Energy Drink,Beverages,100,6,2020,6084,526
+Soda,Beverages,20,6,2020,2513,394
+Coconut Water,Beverages,40,6,2020,5403,517
+Coffee,Beverages,80,6,2020,2532,308
+Tea,Beverages,50,6,2020,7188,694
+Honey,Condiments,150,6,2020,7089,824
+Ketchup,Condiments,70,6,2020,6557,507
+Mayonnaise,Condiments,100,6,2020,10830,1107
+Mustard,Condiments,50,6,2020,6547,776
+Relish,Condiments,60,6,2020,5559,508
+Soy Sauce,Condiments,80,6,2020,2022,300
+Hot Sauce,Condiments,50,6,2020,3496,478
+Salad Dressing,Condiments,100,6,2020,6217,469
+Jam,Condiments,120,6,2020,6044,662
+Peanut Butter,Condiments,150,6,2020,3931,338
+Nutella,Condiments,200,6,2020,2755,346
+Olive Oil,Oils,200,6,2020,5828,474
+Canola Oil,Oils,100,6,2020,5257,651
+Vegetable Oil,Oils,80,6,2020,4845,627
+Sunflower Oil,Oils,90,6,2020,2090,217
+Sesame Oil,Oils,150,6,2020,8302,602
+Butter,Dairy,120,6,2020,4356,360
+Cheese,Dairy,200,6,2020,7902,580
+Milk,Dairy,50,6,2020,6117,442
+Yogurt,Dairy,40,6,2020,2468,305
+Cream,Dairy,60,6,2020,8142,760
+Ice Cream,Dairy,100,6,2020,2632,321
+Chicken,Meat,200,6,2020,9229,627
+Beef,Meat,300,6,2020,6477,635
+Pork,Meat,250,6,2020,6841,545
+Lamb,Meat,350,6,2020,2624,254
+Fish,Seafood,150,6,2020,5250,415
+Shrimp,Seafood,250,6,2020,4675,576
+Crab,Seafood,200,6,2020,3043,324
+Lobster,Seafood,500,6,2020,7191,668
+Squid,Seafood,100,6,2020,9630,751
+Rice,Grains,80,6,2020,2837,246
+Pasta,Grains,50,6,2020,6398,559
+Bread,Bakery,30,6,2020,6107,587
+Bagel,Bakery,40,6,2020,6854,978
+Croissant,Bakery,50,6,2020,7556,930
+Muffin,Bakery,60,6,2020,5470,550
+Apple,Fruits,120,5,2021,3706,459
+Banana,Fruits,60,5,2021,3854,468
+Orange,Fruits,80,5,2021,5080,607
+Mango,Fruits,150,5,2021,8322,1108
+Pineapple,Fruits,100,5,2021,3815,485
+Papaya,Fruits,80,5,2021,3804,454
+Watermelon,Fruits,30,5,2021,9203,1062
+Grapes,Fruits,200,5,2021,4917,558
+Kiwi,Fruits,80,5,2021,5464,546
+Pomegranate,Fruits,120,5,2021,6152,603
+Guava,Fruits,40,5,2021,6192,869
+Pear,Fruits,100,5,2021,6078,758
+Plum,Fruits,80,5,2021,3483,287
+Cherry,Fruits,150,5,2021,4775,567
+Avocado,Fruits,200,5,2021,5255,573
+Lemon,Fruits,20,5,2021,7781,888
+Lime,Fruits,30,5,2021,4443,657
+Grapefruit,Fruits,70,5,2021,6409,717
+Blueberry,Fruits,120,5,2021,5330,509
+Raspberry,Fruits,150,5,2021,7988,885
+Strawberry,Fruits,100,5,2021,4138,427
+Blackberry,Fruits,80,5,2021,5221,592
+Mango Juice,Beverages,50,5,2021,4483,434
+Orange Juice,Beverages,40,5,2021,7692,681
+Apple Juice,Beverages,60,5,2021,7165,1120
+Pineapple Juice,Beverages,70,5,2021,6003,498
+Lemonade,Beverages,30,5,2021,6382,845
+Iced Tea,Beverages,40,5,2021,3970,469
+Energy Drink,Beverages,100,5,2021,6419,556
+Soda,Beverages,20,5,2021,2722,460
+Coconut Water,Beverages,40,5,2021,5856,577
+Coffee,Beverages,80,5,2021,3416,436
+Tea,Beverages,50,5,2021,6789,689
+Honey,Condiments,150,5,2021,6262,839
+Ketchup,Condiments,70,5,2021,8602,676
+Mayonnaise,Condiments,100,5,2021,9825,1065
+Mustard,Condiments,50,5,2021,5547,636
+Relish,Condiments,60,5,2021,4366,420
+Soy Sauce,Condiments,80,5,2021,3448,485
+Hot Sauce,Condiments,50,5,2021,3941,494
+Salad Dressing,Condiments,100,5,2021,6038,444
+Jam,Condiments,120,5,2021,8577,946
+Peanut Butter,Condiments,150,5,2021,5554,528
+Nutella,Condiments,200,5,2021,4224,509
+Olive Oil,Oils,200,5,2021,4906,365
+Canola Oil,Oils,100,5,2021,4902,602
+Vegetable Oil,Oils,80,5,2021,5599,768
+Sunflower Oil,Oils,90,5,2021,2821,334
+Sesame Oil,Oils,150,5,2021,7199,502
+Butter,Dairy,120,5,2021,3682,318
+Cheese,Dairy,200,5,2021,5737,448
+Milk,Dairy,50,5,2021,5988,426
+Yogurt,Dairy,40,5,2021,4968,517
+Cream,Dairy,60,5,2021,7008,622
+Ice Cream,Dairy,100,5,2021,3901,526
+Chicken,Meat,200,5,2021,7653,539
+Beef,Meat,300,5,2021,7140,711
+Pork,Meat,250,5,2021,7046,518
+Lamb,Meat,350,5,2021,4602,497
+Fish,Seafood,150,5,2021,7046,643
+Shrimp,Seafood,250,5,2021,4851,505
+Crab,Seafood,200,5,2021,5392,672
+Lobster,Seafood,500,5,2021,5679,548
+Squid,Seafood,100,5,2021,9556,728
+Rice,Grains,80,5,2021,4443,404
+Pasta,Grains,50,5,2021,5314,507
+Bread,Bakery,30,5,2021,7023,732
+Bagel,Bakery,40,5,2021,7358,1055
+Croissant,Bakery,50,5,2021,8095,1129
+Muffin,Bakery,60,5,2021,6955,645
+Apple,Fruits,120,4,2022,3769,503
+Banana,Fruits,60,4,2022,4108,521
+Orange,Fruits,80,4,2022,5702,655
+Mango,Fruits,150,4,2022,7286,1101
+Pineapple,Fruits,100,4,2022,3713,455
+Papaya,Fruits,80,4,2022,3482,442
+Watermelon,Fruits,30,4,2022,9550,1096
+Grapes,Fruits,200,4,2022,6109,783
+Kiwi,Fruits,80,4,2022,6471,579
+Pomegranate,Fruits,120,4,2022,6401,579
+Guava,Fruits,40,4,2022,6151,914
+Pear,Fruits,100,4,2022,5784,780
+Plum,Fruits,80,4,2022,3959,312
+Cherry,Fruits,150,4,2022,4080,514
+Avocado,Fruits,200,4,2022,5623,586
+Lemon,Fruits,20,4,2022,7865,924
+Lime,Fruits,30,4,2022,5328,731
+Grapefruit,Fruits,70,4,2022,6450,684
+Blueberry,Fruits,120,4,2022,5465,528
+Raspberry,Fruits,150,4,2022,9262,1076
+Strawberry,Fruits,100,4,2022,4340,388
+Blackberry,Fruits,80,4,2022,4390,501
+Mango Juice,Beverages,50,4,2022,4311,430
+Orange Juice,Beverages,40,4,2022,7534,701
+Apple Juice,Beverages,60,4,2022,8323,1224
+Pineapple Juice,Beverages,70,4,2022,6204,529
+Lemonade,Beverages,30,4,2022,6749,890
+Iced Tea,Beverages,40,4,2022,3607,474
+Energy Drink,Beverages,100,4,2022,5590,519
+Soda,Beverages,20,4,2022,3364,570
+Coconut Water,Beverages,40,4,2022,4683,483
+Coffee,Beverages,80,4,2022,3528,432
+Tea,Beverages,50,4,2022,6090,657
+Honey,Condiments,150,4,2022,6713,828
+Ketchup,Condiments,70,4,2022,7779,609
+Mayonnaise,Condiments,100,4,2022,9949,1043
+Mustard,Condiments,50,4,2022,5196,660
+Relish,Condiments,60,4,2022,4232,388
+Soy Sauce,Condiments,80,4,2022,3802,526
+Hot Sauce,Condiments,50,4,2022,4027,576
+Salad Dressing,Condiments,100,4,2022,5578,420
+Jam,Condiments,120,4,2022,8036,939
+Peanut Butter,Condiments,150,4,2022,4917,504
+Nutella,Condiments,200,4,2022,4460,540
+Olive Oil,Oils,200,4,2022,4456,391
+Canola Oil,Oils,100,4,2022,4350,591
+Vegetable Oil,Oils,80,4,2022,6246,791
+Sunflower Oil,Oils,90,4,2022,2834,327
+Sesame Oil,Oils,150,4,2022,6284,479
+Butter,Dairy,120,4,2022,3794,374
+Cheese,Dairy,200,4,2022,7042,533
+Milk,Dairy,50,4,2022,6213,433
+Yogurt,Dairy,40,4,2022,4517,560
+Cream,Dairy,60,4,2022,6186,571
+Ice Cream,Dairy,100,4,2022,4406,562
+Chicken,Meat,200,4,2022,7487,568
+Beef,Meat,300,4,2022,8135,786
+Pork,Meat,250,4,2022,5917,485
+Lamb,Meat,350,4,2022,4534,505
+Fish,Seafood,150,4,2022,8113,687
+Shrimp,Seafood,250,4,2022,3928,512
+Crab,Seafood,200,4,2022,5643,657
+Lobster,Seafood,500,4,2022,6228,587
+Squid,Seafood,100,4,2022,8478,705
+Rice,Grains,80,4,2022,4805,470
+Pasta,Grains,50,4,2022,6430,517
+Bread,Bakery,30,4,2022,7654,786
+Bagel,Bakery,40,4,2022,7984,1174
+Croissant,Bakery,50,4,2022,8173,1129
+Muffin,Bakery,60,4,2022,5585,607
+Apple,Fruits,120,3,2023,3464,463
+Banana,Fruits,60,3,2023,5093,650
+Orange,Fruits,80,3,2023,5414,607
+Mango,Fruits,150,3,2023,8503,1108
+Pineapple,Fruits,100,3,2023,3595,503
+Papaya,Fruits,80,3,2023,3469,408
+Watermelon,Fruits,30,3,2023,8214,874
+Grapes,Fruits,200,3,2023,4996,626
+Kiwi,Fruits,80,3,2023,5649,539
+Pomegranate,Fruits,120,3,2023,5561,600
+Guava,Fruits,40,3,2023,7185,997
+Pear,Fruits,100,3,2023,6201,796
+Plum,Fruits,80,3,2023,3164,256
+Cherry,Fruits,150,3,2023,4409,541
+Avocado,Fruits,200,3,2023,4899,511
+Lemon,Fruits,20,3,2023,6779,802
+Lime,Fruits,30,3,2023,4952,674
+Grapefruit,Fruits,70,3,2023,5940,654
+Blueberry,Fruits,120,3,2023,4826,532
+Raspberry,Fruits,150,3,2023,7264,823
+Strawberry,Fruits,100,3,2023,4162,386
+Blackberry,Fruits,80,3,2023,4058,436
+Mango Juice,Beverages,50,3,2023,4364,413
+Orange Juice,Beverages,40,3,2023,7706,720
+Apple Juice,Beverages,60,3,2023,9047,1147
+Pineapple Juice,Beverages,70,3,2023,4332,401
+Lemonade,Beverages,30,3,2023,6789,874
+Iced Tea,Beverages,40,3,2023,3197,394
+Energy Drink,Beverages,100,3,2023,5562,517
+Soda,Beverages,20,3,2023,3094,491
+Coconut Water,Beverages,40,3,2023,4553,464
+Coffee,Beverages,80,3,2023,3870,458
+Tea,Beverages,50,3,2023,6561,657
+Honey,Condiments,150,3,2023,6209,871
+Ketchup,Condiments,70,3,2023,8181,609
+Mayonnaise,Condiments,100,3,2023,9981,1067
+Mustard,Condiments,50,3,2023,4802,538
+Relish,Condiments,60,3,2023,4139,378
+Soy Sauce,Condiments,80,3,2023,3817,545
+Hot Sauce,Condiments,50,3,2023,3982,552
+Salad Dressing,Condiments,100,3,2023,4125,350
+Jam,Condiments,120,3,2023,9065,1001
+Peanut Butter,Condiments,150,3,2023,4517,464
+Nutella,Condiments,200,3,2023,4166,509
+Olive Oil,Oils,200,3,2023,4122,342
+Canola Oil,Oils,100,3,2023,3651,498
+Vegetable Oil,Oils,80,3,2023,5881,844
+Sunflower Oil,Oils,90,3,2023,2694,338
+Sesame Oil,Oils,150,3,2023,5985,468
+Butter,Dairy,120,3,2023,3273,292
+Cheese,Dairy,200,3,2023,5124,416
+Milk,Dairy,50,3,2023,4411,331
+Yogurt,Dairy,40,3,2023,4604,494
+Cream,Dairy,60,3,2023,5212,511
+Ice Cream,Dairy,100,3,2023,3068,465
+Chicken,Meat,200,3,2023,6287,466
+Beef,Meat,300,3,2023,6059,640
+Pork,Meat,250,3,2023,4985,424
+Lamb,Meat,350,3,2023,3864,477
+Fish,Seafood,150,3,2023,6035,637
+Shrimp,Seafood,250,3,2023,5289,576
+Crab,Seafood,200,3,2023,5472,679
+Lobster,Seafood,500,3,2023,4484,424
+Squid,Seafood,100,3,2023,7923,644
+Rice,Grains,80,3,2023,3477,326
+Pasta,Grains,50,3,2023,5005,451
+Bread,Bakery,30,3,2023,6554,690
+Bagel,Bakery,40,3,2023,8215,1198
+Croissant,Bakery,50,3,2023,7670,1082
+Muffin,Bakery,60,3,2023,5767,576
